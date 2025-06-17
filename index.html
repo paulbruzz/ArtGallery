@@ -107,7 +107,7 @@
     .scroll-btn {
       width: 48px;
       height: 100%;
-      background: rgba(0, 0, 0, 0.7);
+      background: rgba(0, 200, 0, 0.7);
       border: none;
       color: #ffffff;
       font-size: 1.8rem;
@@ -170,10 +170,16 @@
 <script>
 const mediaList = [
   // === IMAGES ===
-  "Airplanes.png", "Arenzano.jpg", "BoccaDiRosa.jpg", "Dinae.jpg", "DogeZena1.jpg", "DogeZena2.jpg",
-  "DraghiMattarella.jpg", "ELSA.jpg", "Gerry_Scotti_KeithHaring.png", "GigiDAlessio.jpg", "GTA_SA.jpg",
-  "HeavyRain.jpg", "JustDance.jpg", "Juve.jpg", "KatanaMobile.jpg", "LGBT.jpg", "Mattarella2022.jpg",
-  "NFSMW.jpg", "Renatino.jpg", "Renzi_Calenda.jpg", "WinXP.jpg"
+  'Airplanes.png', 'Arenzano.jpg', 'Autismo.webp', 'BoccaDiRosa.jpg', 'Dinae.jpg',
+  'DogeZena1.jpg', 'DogeZena2.jpg', 'DraghiMattarella.jpg', 'ELSA.jpg', 'Gerry_Scotti_KeithHaring.png',
+  'GigiDAlessio.jpg', 'GTA_SA.jpg', 'HeavyRain.jpg', 'Inter2021.jpg', 'JustDance.jpg', 'Juve.jpg',
+  'KatanaMobile.jpg', 'LaSad.webp', 'LGBT.jpg', 'LinkedIn.webp', 'Lundini.jpg', 'marmellata25.mp4',
+  'Materazzi_RuiCosta.jpg', 'Mattarella2022.jpg', 'MattonellaClerici.webp', 'Mazzone_Cheems.webp',
+  'Memoria.webp', 'Me_And_The_Boys.jpg', 'NFSMW.jpg', 'Padana.webp', 'Paint.png', 'PapaVigile.webp',
+  'Perugiamobile.webp', 'Pordenone.png', 'Pregiudizi.webp', 'ReactionPic.webp', 'RealeMutua.webp',
+  'Renatino.jpg', 'Renzi_Calenda.jpg', 'Ronaldo_Iuliano.jpg', 'Samp_yugioh.webp', 'Spotify1.webp',
+  'Spotify2.webp', 'Spotify3.webp', 'Spotify4.webp', 'Spotify5.webp', 'Spreco.webp', 'SQL_Injection.webp',
+  'TottiRussia.webp', 'WinXP.jpg', 'Zerocalcare.webp'
 ].map(name => ({
   type: "image",
   src: `photos/${name}`,
@@ -182,11 +188,19 @@ const mediaList = [
 })).concat(
   // === VIDEOS ===
   [
-    "Brumotti_AssassinsCreed.mp4", "BugoMorganGuitarHero.mp4", "CheemsTG5.mp4", 
-    "ClaudioBisioYuGiOh.mp4", "GrilloBerlu.mp4", "Jojo_.mp4", "Ligabue.mp4", "Mahmood_Soldi.mp4",
-    "MALEDETTI.mp4", "MarioGiordano.mp4", "Marmellata25.mp4", "MattarellaBoris.mp4",
-    "MorteCheems.mp4", "PES6Cockrating.mp4", "Pulcino.mp4", "QuellaRaglia.mp4", "SalviniSimpson.mp4",
-    "TottiMorse.mp4", "ViviNellAria.mp4", "Wojak.mp4", "Zequila.mp4"
+    'AlexBritti.mp4', 'AnatraCaffelatte.mp4', 'Barzelletta.mp4', 'Bisio_CanCan.mp4',
+	'Bisio_Vangelo.mp4', 'Brainrot2006.mp4', 'Brumotti_AssassinsCreed.mp4',
+	'BugoMorganGuitarHero.mp4', 'CaliforniaGurls.mp4', 'Celentano.mp4', 'CheemsTG5.mp4',
+	'ClaudioBisioYuGiOh.mp4', 'ClubDogo.mp4', 'cremonini.mp4', 'cuck.mp4', 'DDoS.mp4',
+	'DeAndrè.mp4', 'Eiffel_65.mp4', 'Fedez.mp4', 'FiatMarea.mp4', 'Freezer.mp4', 'Gazzè.mp4',
+	'Genova_Alberi.mp4', 'Ghali.mp4', 'Gnocchi.mp4', 'Gorillaz.mp4', 'GrilloBerlu.mp4', 'Jenga.mp4',
+	'Jojo_.mp4', 'Junior.mp4', 'ken.mp4', 'Ligabue.mp4', 'LucioDalla.mp4',
+	'MALEDETTI.mp4', 'MarioGiordano.mp4', 'Marmellata25.mp4', 'MattarellaBoris.mp4', 'mela.mp4',
+	'Mindset.mp4', 'MorteCheems.mp4', 'Mucca_stipendio.mp4', 'negramaro.mp4', 'nek_1.mp4', 'Nek_2.mp4',
+	'OnePieceYTP.mp4', 'PES6Cockrating.mp4', 'Pezzali1.mp4', 'PinguinoFerrari.mp4', 'PTN.mp4', 'Pulcino.mp4',
+	'QuellaRaglia.mp4', 'Ramazzotti.mp4', 'RinoGaetano.mp4', 'Salvini.mp4', 'SalviniSimpson.mp4',
+	'SQL_Ferro.mp4', 'thegiornalisti.mp4', 'TheKolors.mp4', 'TottiMorse.mp4', 'Vanni.mp4', 'Vecchioni.mp4',
+	'ViviNellAria.mp4', 'Zequila.mp4', 'Zucchero.mp4'
   ].map(name => ({
     type: "video",
     src: `videos/${name}`,
