@@ -60,6 +60,7 @@
       align-items: center;
       border-top: 1px solid #333;
       position: relative;
+      flex-shrink: 0;
     }
 
     .thumbnail-scroll {
@@ -67,13 +68,22 @@
       white-space: nowrap;
       flex: 1;
       scroll-behavior: smooth;
-      padding: 0.8rem 2.5rem; /* leaves room for buttons */
+      padding: 0.8rem 2.5rem;
+      max-height: 100%;
     }
 
     .thumb-wrapper {
       position: relative;
       display: inline-block;
       margin-right: 12px;
+    }
+
+    .thumb-wrapper img,
+    .thumb-wrapper video {
+      max-height: 60px;
+      width: auto;
+      max-width: 100px;
+      object-fit: cover;
     }
 
     .thumbnail {
@@ -173,15 +183,15 @@ const mediaList = [
   'Airplanes.png', 'Arenzano.jpg', 'Autismo.webp', 'BoccaDiRosa.jpg', 'Dinae.jpg',
   'DogeZena1.jpg', 'DogeZena2.jpg', 'DraghiMattarella.jpg', 'ELSA.jpg', 'Gerry_Scotti_KeithHaring.png',
   'GigiDAlessio.jpg', 'GTA_SA.jpg', 'HeavyRain.jpg', 'Inter2021.jpg', 'JustDance.jpg', 'Juve.jpg',
-  'KatanaMobile.jpg', 'LaSad.webp', 'LGBT.jpg', 'LinkedIn.webp', 'Lundini.jpg', 'marmellata25.mp4',
-  'Materazzi_RuiCosta.jpg', 'Mattarella2022.jpg', 'MattonellaClerici.webp', 'Mazzone_Cheems.webp',
-  'Memoria.webp', 'Me_And_The_Boys.jpg', 'NFSMW.jpg', 'Padana.webp', 'Paint.png', 'PapaVigile.webp',
-  'Perugiamobile.webp', 'Pordenone.png', 'Pregiudizi.webp', 'ReactionPic.webp', 'RealeMutua.webp',
-  'Renatino.jpg', 'Renzi_Calenda.jpg', 'Ronaldo_Iuliano.jpg', 'Samp_yugioh.webp', 'Spotify1.webp',
-  'Spotify2.webp', 'Spotify3.webp', 'Spotify4.webp', 'Spotify5.webp', 'Spreco.webp', 'SQL_Injection.webp',
+  'KatanaMobile.jpg', 'LaSad.webp', 'LGBT.jpg', 'LinkedIn.webp', 'Lundini.jpg', 'Materazzi_RuiCosta.jpg',
+  'Mattarella2022.jpg', 'MattonellaClerici.webp', 'Mazzone_Cheems.webp', 'Memoria.webp',
+  'Me_And_The_Boys.jpg', 'NFSMW.jpg', 'Padana.webp', 'Paint.png', 'PapaVigile.webp', 'Perugiamobile.webp',
+  'Pordenone.png', 'Pregiudizi.webp', 'ReactionPic.webp', 'RealeMutua.webp', 'Renatino.jpg',
+  'Renzi_Calenda.jpg', 'Ronaldo_Iuliano.jpg', 'Samp_yugioh.webp', 'Spotify1.webp', 'Spotify2.webp',
+  'Spotify3.webp', 'Spotify4.webp', 'Spotify5.webp', 'Spreco.webp', 'SQL_Injection.webp',
   'TottiRussia.webp', 'WinXP.jpg', 'Zerocalcare.webp'
 ].map(name => ({
-  type: "image",
+  type: "img",
   src: `photos/${name}`,
   title: name.replace(/\.[^/.]+$/, ''),
   description: `An artistic image titled '${name.replace(/\.[^/.]+$/, '').replace(/_/g, ' ')}'.`
@@ -189,23 +199,23 @@ const mediaList = [
   // === VIDEOS ===
   [
     'AlexBritti.mp4', 'AnatraCaffelatte.mp4', 'Barzelletta.mp4', 'Bisio_CanCan.mp4',
-	'Bisio_Vangelo.mp4', 'Brainrot2006.mp4', 'Brumotti_AssassinsCreed.mp4',
-	'BugoMorganGuitarHero.mp4', 'CaliforniaGurls.mp4', 'Celentano.mp4', 'CheemsTG5.mp4',
-	'ClaudioBisioYuGiOh.mp4', 'ClubDogo.mp4', 'cremonini.mp4', 'cuck.mp4', 'DDoS.mp4',
-	'DeAndrè.mp4', 'Eiffel_65.mp4', 'Fedez.mp4', 'FiatMarea.mp4', 'Freezer.mp4', 'Gazzè.mp4',
-	'Genova_Alberi.mp4', 'Ghali.mp4', 'Gnocchi.mp4', 'Gorillaz.mp4', 'GrilloBerlu.mp4', 'Jenga.mp4',
-	'Jojo_.mp4', 'Junior.mp4', 'ken.mp4', 'Ligabue.mp4', 'LucioDalla.mp4',
-	'MALEDETTI.mp4', 'MarioGiordano.mp4', 'Marmellata25.mp4', 'MattarellaBoris.mp4', 'mela.mp4',
-	'Mindset.mp4', 'MorteCheems.mp4', 'Mucca_stipendio.mp4', 'negramaro.mp4', 'nek_1.mp4', 'Nek_2.mp4',
-	'OnePieceYTP.mp4', 'PES6Cockrating.mp4', 'Pezzali1.mp4', 'PinguinoFerrari.mp4', 'PTN.mp4', 'Pulcino.mp4',
-	'QuellaRaglia.mp4', 'Ramazzotti.mp4', 'RinoGaetano.mp4', 'Salvini.mp4', 'SalviniSimpson.mp4',
-	'SQL_Ferro.mp4', 'thegiornalisti.mp4', 'TheKolors.mp4', 'TottiMorse.mp4', 'Vanni.mp4', 'Vecchioni.mp4',
-	'ViviNellAria.mp4', 'Zequila.mp4', 'Zucchero.mp4'
+    'Bisio_Vangelo.mp4', 'Brainrot2006.mp4', 'Brumotti_AssassinsCreed.mp4',
+    'BugoMorganGuitarHero.mp4', 'CaliforniaGurls.mp4', 'Celentano.mp4', 'CheemsTG5.mp4',
+    'ClaudioBisioYuGiOh.mp4', 'ClubDogo.mp4', 'cremonini.mp4', 'cuck.mp4', 'DDoS.mp4',
+    'DeAndrè.mp4', 'Eiffel_65.mp4', 'Fedez.mp4', 'FiatMarea.mp4', 'Freezer.mp4', 'Gazzè.mp4',
+    'Genova_Alberi.mp4', 'Ghali.mp4', 'Gnocchi.mp4', 'Gorillaz.mp4', 'GrilloBerlu.mp4', 'Jenga.mp4',
+    'Jojo_.mp4', 'Junior.mp4', 'ken.mp4', 'Ligabue.mp4', 'LucioDalla.mp4',
+    'MALEDETTI.mp4', 'MarioGiordano.mp4', 'Marmellata25.mp4', 'MattarellaBoris.mp4', 'mela.mp4',
+    'Mindset.mp4', 'MorteCheems.mp4', 'Mucca_stipendio.mp4', 'negramaro.mp4', 'nek_1.mp4', 'Nek_2.mp4',
+    'OnePieceYTP.mp4', 'PES6Cockrating.mp4', 'Pezzali1.mp4', 'PinguinoFerrari.mp4', 'PTN.mp4', 'Pulcino.mp4',
+    'QuellaRaglia.mp4', 'Ramazzotti.mp4', 'RinoGaetano.mp4', 'Salvini.mp4', 'SalviniSimpson.mp4',
+    'SQL_Ferro.mp4', 'thegiornalisti.mp4', 'TheKolors.mp4', 'TottiMorse.mp4', 'Vanni.mp4', 'Vecchioni.mp4',
+    'ViviNellAria.mp4', 'Zequila.mp4', 'Zucchero.mp4'
   ].map(name => ({
     type: "video",
     src: `videos/${name}`,
     title: name.replace(/\.[^/.]+$/, ''),
-    description: `A short video clip titled '${name.replace(/\.[^/.]+$/, '').replace(/_/g, ' ')}', part of the meme showcase.`
+    description: `A short video clip titled '${name.replace(/\.[^/.]+$/, '').replace(/_/g, ' ')}'.`
   }))
 );
 
@@ -213,11 +223,12 @@ const thumbBar = document.getElementById("thumbnails");
 const mainContainer = document.getElementById("main-media-container");
 const artTitle = document.getElementById("art-title");
 const artDesc = document.getElementById("art-description");
+let selectedIndex = 0;
 
 function loadMain(item) {
-  mainContainer.innerHTML = item.type === "image"
-    ? `<img src="${item.src}" class="img-fluid" alt="${item.title}" />`
-    : `<video src="${item.src}" controls class="img-fluid"></video>`;
+  mainContainer.innerHTML = item.type === "video"
+    ? `<video src="${item.src}" controls class="img-fluid"></video>`
+    : `<img src="${item.src}" class="img-fluid" alt="${item.title}" />`;
   artTitle.textContent = item.title;
   artDesc.textContent = item.description;
 }
@@ -226,19 +237,38 @@ function scrollThumbnails(amount) {
   thumbBar.scrollBy({ left: amount, behavior: 'smooth' });
 }
 
+function selectMediaAtIndex(index) {
+  selectedIndex = index;
+  const thumbnails = document.querySelectorAll(".thumbnail");
+  thumbnails.forEach(t => t.classList.remove("selected-thumbnail"));
+  const selected = thumbnails[index];
+  selected.classList.add("selected-thumbnail");
+  selected.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+  loadMain(mediaList[index]);
+}
+
+document.addEventListener("keydown", e => {
+  if (e.key === "ArrowRight") {
+    selectedIndex = (selectedIndex + 1) % mediaList.length;
+    selectMediaAtIndex(selectedIndex);
+  } else if (e.key === "ArrowLeft") {
+    selectedIndex = (selectedIndex - 1 + mediaList.length) % mediaList.length;
+    selectMediaAtIndex(selectedIndex);
+  }
+});
+
 mediaList.forEach((item, idx) => {
   const wrapper = document.createElement("div");
   wrapper.className = "thumb-wrapper" + (item.type === "video" ? " video-icon" : "");
 
-  const el = document.createElement(item.type);
+  const el = document.createElement(item.type === "video" ? "video" : "img");
   el.className = "thumbnail";
   el.src = item.src;
+  if (item.type === "video") el.muted = true;
   if (idx === 0) el.classList.add("selected-thumbnail");
 
   el.addEventListener("click", () => {
-    document.querySelectorAll(".thumbnail").forEach(t => t.classList.remove("selected-thumbnail"));
-    el.classList.add("selected-thumbnail");
-    loadMain(item);
+    selectMediaAtIndex(idx);
   });
 
   wrapper.appendChild(el);
