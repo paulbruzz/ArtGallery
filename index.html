@@ -47,14 +47,23 @@
 
     .info-container {
       flex: 5;
-      max-height: 100%;
-      max-width: 60%;
+      max-height: 80vh;
+      max-width: 60vw;
       margin-left: 3vw;
       margin-right: 3vw;
       margin-top: 1vh;
       display: flex;
       flex-direction: column;
       justify-content: center;
+      overflow-y: auto;
+    }
+
+    .info-container h2,
+    .info-container p {
+      font-size: clamp(0.9rem, 2vw, 1.5rem);
+      line-height: 1.4;
+      overflow-wrap: break-word;
+      margin-bottom: 0.5rem;
     }
 
     .thumbnail-wrapper {
@@ -167,8 +176,8 @@
   <div class="main-display">
     <div class="media-container" id="main-media-container"></div>
     <div class="info-container">
-      <h2 id="art-title"></h2>
-      <p id="art-date" style="padding: 1vw 1vh;"></p>
+      <h2 id="art-title" style="font-weight: bold;"></h2>
+      <p id="art-date" style="color: rgb(0, 222, 0);"></p>
       <p id="art-description"></p>
     </div>
   </div>
