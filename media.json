@@ -313,44 +313,37 @@
   {
     "type": "img",
     "src": "photos/Spreco.webp",
-    "title": "Spreco",
-    "date": "2025-06-21",
-    "description": "An image titled 'Spreco', part of the meme gallery collection. This piece combines humor, culture, and commentary in a creative format."
+    "title": "La famiglia pro-spreco",
+    "date": "8 febbraio 2025",
+    "description": "Sulla scia della wave di 'Evil X will be like', ecco la famiglia pro-spreco, cioè il rovesciamento della famiglia anti-spreco pubblicizzata da un articolo del Corriere della Sera."
   },
   {
     "type": "img",
     "src": "photos/SQL_Injection.webp",
     "title": "SQL Injection",
-    "date": "2025-06-21",
-    "description": "An image titled 'SQL Injection', part of the meme gallery collection. This piece combines humor, culture, and commentary in a creative format."
+    "date": "16 marzo 2025",
+    "description": "Antonello Venditti, noto esperto di informatica e black-hat hacker, inserendo una query maliziosa nel testo di una sua canzone."
   },
   {
     "type": "img",
     "src": "photos/TottiRussia.webp",
-    "title": "TottiRussia",
-    "date": "2025-06-21",
-    "description": "An image titled 'TottiRussia', part of the meme gallery collection. This piece combines humor, culture, and commentary in a creative format."
+    "title": "Daje Mosca",
+    "date": "27 marzo 2025",
+    "description": "Memegiornale sul lavoro di Francesco Totti (immenso capitano) nella mediazione sul conflitto russo-ucraino. Daje Roma daje!!!"
   },
   {
     "type": "img",
     "src": "photos/WinXP.jpg",
-    "title": "WinXP",
+    "title": "Marassi XP",
     "date": "2025-06-21",
-    "description": "An image titled 'WinXP', part of the meme gallery collection. This piece combines humor, culture, and commentary in a creative format."
+    "description": "Avete presente il palazzo di Marassi che si vede benissimo da piazzale Parenzo? Non ditemi che non sembra il collasso delle finestre del caro vecchio Windows XP durante un crash di sistema."
   },
   {
     "type": "img",
     "src": "photos/Zerocalcare.webp",
     "title": "Zerocalcare",
-    "date": "2025-06-21",
-    "description": "An image titled 'Zerocalcare', part of the meme gallery collection. This piece combines humor, culture, and commentary in a creative format."
-  },
-  {
-    "type": "video",
-    "src": "videos/AlexBritti.mp4",
-    "title": "AlexBritti",
-    "date": "2025-06-21",
-    "description": "A video titled 'AlexBritti', part of the meme gallery collection. This piece combines humor, culture, and commentary in a creative format."
+    "date": "23 gennaio 2025",
+    "description": "Meme concepito a fine luglio 2023, ci ho messo un po' per trovare il tempo e la voglia di mettere tutto insieme (non c'è l'AI di mezzo qui, è tutto fatto 'a mano'). Però devo dire che il risultato è valso l'attesa."
   },
   {
     "type": "video",
