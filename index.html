@@ -218,6 +218,8 @@ function scrollThumbnails(amount) {
 
 function selectMediaAtIndex(index) {
   selectedIndex = index;
+  localStorage.setItem('selectedMediaIndex', index); // ← Save to localStorage
+
   const thumbnails = document.querySelectorAll(".thumbnail");
   thumbnails.forEach(t => t.classList.remove("selected-thumbnail"));
   const selected = thumbnails[index];
@@ -259,7 +261,9 @@ fetch('media.json')
     });
 
     if (mediaList.length > 0) {
-      selectMediaAtIndex(0);
+      const savedIndex = parseInt(localStorage.getItem('selectedMediaIndex'), 10);
+      const validIndex = !isNaN(savedIndex) && savedIndex >= 0 && savedIndex < mediaList.length;
+      selectMediaAtIndex(validIndex ? savedIndex : 0);
     }
   })
   .catch(err => {
