@@ -57,17 +57,10 @@
   },
   {
     "type": "img",
-    "src": "photos/DogeZena1.jpg",
-    "title": "Doge_Zeneize_1",
-    "date": "2 luglio 2020",
-    "description": "Si rifà alla wave di 'NOOOO I don't wanna be bread'. Ammetto che la salsa di noci non è il mio forte, quindi posso capire il Doge del pannello di sopra."
-  },
-  {
-    "type": "img",
     "src": "photos/DogeZena2.jpg",
-    "title": "Doge_Zeneize_2",
+    "title": "Doge_Zeneize",
     "date": "2 luglio 2020",
-    "description": "Anche questo si rifà alla wave di 'NOOOO I don't wanna be bread'. Ammetto che neanche la torta pasqualina non è il mio forte, quindi posso capire il Doge del pannello di sopra... lo so, ho gusti culinari poco genovesi."
+    "description": "Questo si rifà alla wave di 'NOOOO I don't wanna be bread'. Ammetto che la torta pasqualina non è il mio forte, quindi posso capire il Doge del pannello di sopra."
   },
   {
     "type": "img",
@@ -116,7 +109,7 @@
     "src": "photos/molchat.jpg",
     "title": "Erzelli Molchat Doma",
     "date": "8 dicembre 2023",
-    "description": "Chi non conosce l'iconico album 'Etazhe' dei Molchat Doma? Qui ho reimmaginato la copertina adattandola a un panorama familiare a me e ormai a un po' tutti i genovesi."
+    "description": "Chi non conosce l'iconico album 'Etazhi' dei Molchat Doma? Qui ho reimmaginato la copertina adattandola a un panorama familiare a me e ormai a un po' tutti i genovesi."
   },
   {
     "type": "img",
