@@ -134,6 +134,13 @@
   },
   {
     "type": "img",
+    "src": "videos/ZenaTraffico.mp4",
+    "title": "Traffico",
+    "date": "27 maggio 2025",
+    "description": "Il famoso traffico scorrevole di Genova... quante volte siamo rimasti imbottigliati in maniera assurda, magari proprio prima di un appuntamento?"
+  },
+  {
+    "type": "img",
     "src": "photos/20set_1.jpg",
     "title": "Il 20 in Via XX Settembre (1)",
     "date": "20 settembre 2021",
