@@ -387,13 +387,6 @@
   },
   {
     "type": "video",
-    "src": "videos/cuck.mp4",
-    "title": "Cuck",
-    "date": "29 luglio 2023",
-    "description": "Un video molto incompreso, nato dall'impressione che mi aveva lasciato una relazione andata purtroppo male, in cui mi sentivo trattato in un certo modo dalla mia partner dell'epoca. Concepito a casissimo durante una vacanza nella provincia di Cuneo, come un flash nella mente."
-  },
-  {
-    "type": "video",
     "src": "videos/ken.mp4",
     "title": "I'm just Ken",
     "date": "29 luglio 2023",
@@ -608,13 +601,6 @@
     "title": "Spotify Wrapped (5)",
     "date": "5 dicembre 2024",
     "description": "Inizio dicembre è il periodo dello Spotify Wrapped, che riassume le statistiche sugli ascolti dell'anno quasi concluso. Ovviamente questo scatenò i mematori di tutto il mondo, e io non potevo di certo fare eccezione."
-  },
-  {
-    "type": "img",
-    "src": "photos/Padana.webp",
-    "title": "Nebbia in Valpadana",
-    "date": "8 dicembre 2024",
-    "description": "Meme che nascono da altri meme (più o meno): questa pic è stata infatti ispirata dal mio viaggio in treno avanti e indietro da Torino per il Memissima 2024."
   },
   {
     "type": "img",
