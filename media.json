@@ -1,28 +1,28 @@
 [
   {
     "type": "img",
-    "src": "photos/HeavyRain.jpg",
+    "src": "photos/HeavyRain.webp",
     "title": "Heavy Rain",
     "date": "27 ottobre 2018",
     "description": "Giorni di pioggia pesante quelli, passati alla storia per la distruzione, da parte delle intemperie, del Covo di Nord-Est e del pino marittimo di Santa Margherita Ligure. Quale miglior modo di commentare la cosa che con un meme?"
   },
   {
     "type": "img",
-    "src": "photos/JustDance.jpg",
+    "src": "photos/JustDance.webp",
     "title": "Just Dance",
     "date": "7 novembre 2018",
     "description": "Perché non possiamo immaginare di ballare i tipici pezzi musicali zeneizi nei videogiochi? Il modello del marinaio è praticamente già pronto, qui dovetti modificare veramente poco."
   },
   {
     "type": "img",
-    "src": "photos/NFSMW.jpg",
+    "src": "photos/NFSMW.webp",
     "title": "Need For Speed: Sampedaenn-a",
     "date": "25 dicembre 2018",
     "description": "La memazione non si ferma mai, nemmeno a Natale, anzi soprattutto a Natale. Prima o poi questa mod di Need For Speed la faccio davvero, comunque."
   },
   {
     "type": "img",
-    "src": "photos/Dinae.jpg",
+    "src": "photos/Dinae.webp",
     "title": "Dinae",
     "date": "11 settembre 2019",
     "description": "STONKS! E quale template poteva adattarsi di più ai genovesi? Citando poi la didascalia originale del post, che si rifaceva alla situazione della Samp all'epoca: 'Quando non vendi la Samp, vendi quelli buoni, e non compri rinforzi'. Iniziava a prepararsi la burrasca degli anni successivi..."
@@ -36,49 +36,42 @@
   },
   {
     "type": "img",
-    "src": "photos/WinXP.jpg",
+    "src": "photos/WinXP.webp",
     "title": "Marassi XP",
     "date": "29 dicembre 2019",
     "description": "Avete presente il palazzo di Marassi che si vede benissimo da piazzale Parenzo? Non ditemi che non sembra il collasso delle finestre del caro vecchio Windows XP durante un crash di sistema."
   },
   {
     "type": "img",
-    "src": "photos/GTA_SA.jpg",
+    "src": "photos/GTA_SA.webp",
     "title": "Missione Pompieri",
     "date": "9 gennaio 2020",
     "description": "Si può dire che il 2020 iniziò davvero col botto: quello di un autobus a Caricamento. Lo volli reimmaginare come una missione da pompiere in GTA San Andreas, con tanto di mappa accurata in basso a sinistra. E non sapevamo ancora cosa ci aspettava durante il resto dell'anno..."
   },
   {
     "type": "img",
-    "src": "photos/BoccaDiRosa.jpg",
+    "src": "photos/BoccaDiRosa.webp",
     "title": "BoccaDiRosa",
     "date": "12 maggio 2020",
     "description": "Forse ho preso il testo della canzone un po' troppo alla lettera..."
   },
   {
     "type": "img",
-    "src": "photos/DogeZena2.jpg",
+    "src": "photos/DogeZena2.webp",
     "title": "Doge_Zeneize",
     "date": "2 luglio 2020",
     "description": "Questo si rifà alla wave di 'NOOOO I don't wanna be bread'. Ammetto che la torta pasqualina non è il mio forte, quindi posso capire il Doge del pannello di sopra."
   },
   {
     "type": "img",
-    "src": "photos/LGBT.jpg",
+    "src": "photos/LGBT.webp",
     "title": "LGBTanini",
     "date": "9 marzo 2021",
     "description": "Repost obbligatorio durante il Pride Month. Beh qui non c'è molto da capire... ma ci tengo a precisare che non ho mai abitato in via Tanini, mi serviva solo qualcosa con cui fare un acronimo pertinente."
   },
   {
-    "type": "video",
-    "src": "videos/Evangelion.mp4",
-    "title": "Pesto con le noci - Evangelion",
-    "date": "4 maggio 2021",
-    "description": "Per il filone 'Pesto con le noci', una reinterpretazione della sigla di Evangelion, apprezzata peraltro dall'admin de 'Il Mugugno Genovese', che addirittura la repostò in pagina tra mille complimenti, nonostante lo avessi (bonariamente, sia chiaro) mandato a quel paese alla fine del video."
-  },
-  {
     "type": "img",
-    "src": "photos/Airplanes.png",
+    "src": "photos/Airplanes.webp",
     "title": "Airplanes",
     "date": "13 agosto 2021",
     "description": "Ispirato alla wave di 'Mordetwi Airplanes', illustra il Grifone genoano e il Baciccia sampdoriano in un inedito featuring di 'Airplanes' di B.O.B. e Hayley Williams."
@@ -92,7 +85,7 @@
   },
   {
     "type": "img",
-    "src": "photos/Arenzano.jpg",
+    "src": "photos/Arenzano.webp",
     "title": "Arenzano",
     "date": "2 giugno 2022",
     "description": "Shitposting regionale ligure che necessita di un po' di sospensione dell'incredulità. Non c'è niente da capire, solo ammirare la bellezza di Arenzano dei Maneskin e la chiarezza del suo discorso."
@@ -106,7 +99,7 @@
   },
   {
     "type": "img",
-    "src": "photos/molchat.jpg",
+    "src": "photos/molchat.webp",
     "title": "Erzelli Molchat Doma",
     "date": "8 dicembre 2023",
     "description": "Chi non conosce l'iconico album 'Etazhi' dei Molchat Doma? Qui ho reimmaginato la copertina adattandola a un panorama familiare a me e ormai a un po' tutti i genovesi."
@@ -134,35 +127,35 @@
   },
   {
     "type": "img",
-    "src": "photos/20set_1.jpg",
+    "src": "photos/20set_1.webp",
     "title": "Il 20 in Via XX Settembre (1)",
     "date": "20 settembre 2021",
     "description": "Il 20 in Via XX Settembre alle ore 20:20 del 20 settembre 2021."
   },
   {
     "type": "img",
-    "src": "photos/20set_2.jpg",
+    "src": "photos/20set_2.webp",
     "title": "Il 20 in Via XX Settembre (2)",
     "date": "23 febbraio 2022",
     "description": "La foto del 20 in Via XX Settembre alle 20:20 del 20 settembre precedente davanti a una pizza '23' della pizzeria '23 Febbraio' (via della Libertà 92r) alle 20:22 del 23 febbraio 2022."
   },
   {
     "type": "img",
-    "src": "photos/20set_3.jpg",
+    "src": "photos/20set_3.webp",
     "title": "Il 20 in Via XX Settembre (3)",
     "date": "5 maggio 2022",
     "description": "La foto della foto del 20 in Via XX Settembre alle 20:20 del 20 settembre precedente davanti a una pizza '23' della pizzeria '23 Febbraio' alle 20:22 del 23 febbraio 2022 davanti al ristorante '5 maggio' in via 5 Maggio il 5 maggio 2022."
   },
   {
     "type": "img",
-    "src": "photos/20set_4.jpg",
+    "src": "photos/20set_4.webp",
     "title": "Il 20 in Via XX Settembre (4)",
     "date": "30 giugno 2022",
     "description": "La foto della foto del 20 in Via XX Settembre alle 20:20 del 20 settembre precedente davanti a una pizza '23' della pizzeria '23 Febbraio' alle 20:22 del 23 febbraio 2022 davanti al ristorante '5 maggio' in via 5 Maggio il 5 maggio in via 30 giugno 1960 il 30 giugno 2022."
   },
   {
     "type": "img",
-    "src": "photos/20set_5.jpg",
+    "src": "photos/20set_5.webp",
     "title": "Il 20 in Via XX Settembre (5)",
     "date": "20 settembre 2022",
     "description": "La foto della foto del 20 in Via XX Settembre alle 20:20 del 20 settembre precedente davanti a una pizza '23' della pizzeria '23 Febbraio' alle 20:22 del 23 febbraio 2022 davanti al ristorante '5 maggio' in via 5 Maggio il 5 maggio in via 30 giugno 1960 il 30 giugno davanti al 20 in via XX Settembre il 20 settembre 2022 alle ore 20",
@@ -170,7 +163,7 @@
   },
   {
     "type": "img",
-    "src": "photos/20set_6.jpg",
+    "src": "photos/20set_6.webp",
     "title": "Il 20 in Via XX Settembre (6)",
     "date": "12 ottobre 2022",
     "description": "La foto della foto del 20 in Via XX Settembre alle 20:20 del 20 settembre precedente davanti a una pizza '23' della pizzeria '23 Febbraio' alle 20:22 del 23 febbraio 2022 davanti al ristorante '5 maggio' in via 5 Maggio il 5 maggio in via 30 giugno 1960 il 30 giugno davanti al 20 in via XX Settembre il 20 settembre 2022 alle ore 20, 16 minuti (cioè 20-2²) e 55 secondi (cioè 2 volte 2⁰+2²) in via XII ottobre il 12 ottobre 2022."
@@ -198,20 +191,6 @@
   },
   {
     "type": "video",
-    "src": "videos/ViviNellAria.mp4",
-    "title": "Dibba vive nell'aria",
-    "date": "15 giugno 2019",
-    "description": "In quei giorni si era consumata la rottura tra Alessandro Di Battista e il Movimento 5 Stelle. L'assurdità del video rispecchia appieno le teorie di Michail Bakhtin sul grottesco, a mio parere."
-  },
-  {
-    "type": "video",
-    "src": "videos/MarioGiordano.mp4",
-    "title": "Mario Giordano",
-    "date": "16 luglio 2019",
-    "description": "Video praticamente 'nonsense' ispirato da una delle tante scene celebri di Mario Giordano, unita a un grande successo dance quale 'Dieci Cento Mille' (qui in versione nightcore). La clip di Salvini che dice 'Olè' è presa dal video promozionale del concorso 'Vinci Salvini'."
-  },
-  {
-    "type": "video",
     "src": "videos/Zequila.mp4",
     "title": "ASMR: Zequila vs Pappalardo (MAI PIÙ)",
     "date": "17 agosto 2019",
@@ -219,24 +198,10 @@
   },
   {
     "type": "video",
-    "src": "videos/ClaudioBisioYuGiOh.mp4",
-    "title": "Bisi-Oh!",
-    "date": "26 agosto 2019",
-    "description": "Un altro dei miei pezzi più celebri, nato per caso in montagna quando, durante una passeggiata, totalmente a caso pensai 'Ma se sostituissi Yu-Gi-Oh nella sigla con Claudio Bisio?'. Il resto è storia. La registrazione della traccia locale avvenne nella camera del B&B di Castelrotto (BZ) dove soggiornavo, mentre il montaggio fu completato a Genova."
-  },
-  {
-    "type": "video",
     "src": "videos/Eiffel_65.mp4",
     "title": "Wojak di Dance all night",
     "date": "3 febbraio 2020",
     "description": "Un altro filone a me molto caro, che mi pento di non aver coltivato abbastanza (ma l'animazione, per quanto semplice, richiede tempo e impegno). Qui ci sono tanti layers, tra cui il Pandino pastorizioso e la presenza dei Cheems-buttafuori."
-  },
-  {
-    "type": "video",
-    "src": "videos/BugoMorganGuitarHero.mp4",
-    "title": "Bugo e Morgan, ma è un'esibizione andata male in Guitar Hero",
-    "date": "10 febbraio 2020",
-    "description": "Come dimenticare il celebre siparietto tra Bugo e Morgan a Sanremo 2020? I lievi errori di Morgan durante il canto della versione modificata e l'interruzione dell'esibizione mi ricordarono di quando in Guitar Hero un'esibizione si interrompeva dopo che veniva commesso un tot di errori - tutti segnalati da un effetto sonoro, credo proprio il feedback di una chitarra elettrica."
   },
   {
     "type": "video",
@@ -251,13 +216,6 @@
     "title": "I fuorionda di Mattarella, ma è una scena di 'Occhi del Cuore'",
     "date": "27 marzo 2020",
     "description": "Nel bel mezzo della pandemia, ci fu una sera in cui l'oggetto dei meme di tutto l'internet italiano furono i fuori onda del Presidente Sergio Mattarella, caricati per errore (?) sul sito del Quirinale. Qui li ho reimmaginati nel contesto della celebre serie TV 'Boris'. Questo video ricevette, tra i tanti apprezzamenti, il like di Caterina Guzzanti."
-  },
-  {
-    "type": "video",
-    "src": "videos/Jojo_.mp4",
-    "title": "L'ora esatta è offerta da: Giorno",
-    "date": "9 maggio 2020",
-    "description": "Tutte le volte che ascoltavo 'Giorno's Theme' della colonna sonora di Jojo non potevo fare a meno di questa somiglianza - quindi, perché non unire i due pezzi, dando a Jojo un tocco di cultura pop italiana? Così ritagliai e ripulii un sample della Canzone dell'Ora Esatta e lo intonai su FL Studio."
   },
   {
     "type": "video",
@@ -303,7 +261,7 @@
   },
   {
     "type": "img",
-    "src": "photos/ELSA.jpg",
+    "src": "photos/ELSA.webp",
     "title": "ELSA",
     "date": "30 ottobre 2021",
     "description": "Quando ero alle elementari e alle medie (metà degli anni Duemila), scrivere ELSA sul diario era un must. Grazie a questa pic, ho capito che il fenomeno era decisamente più vasto e antico di quello che mi aspettavo. Le magie di internet!"
@@ -317,42 +275,42 @@
   },
   {
     "type": "img",
-    "src": "photos/GigiDAlessio.jpg",
+    "src": "photos/GigiDAlessio.webp",
     "title": "Videoclip",
     "date": "26 novembre 2021",
     "description": "Questa pic rientra nel filone del Memegiornale: commenta infatti un fatto di cronaca realmente accaduto, quando le riprese di un videoclip di Gigi D'Alessio a Napoli portarono a galla un tradimento. La donna coinvolta ottenne dalla Sony un risarcimento per il conseguente divorzio... strano il mondo, vero? E ovviamente ci scappò il meme."
   },
   {
     "type": "img",
-    "src": "photos/Juve.jpg",
+    "src": "photos/Juve.webp",
     "title": "La Juve ruba (i cuori)",
     "date": "27 novembre 2021",
     "description": "Anche qui, Memegiornale: il giorno prima Agnelli, Nedved e Paratici erano finiti sotto indagine per falso in bilancio. Ma io so quale reato avevano commesso veramente..."
   },
   {
     "type": "img",
-    "src": "photos/Renatino.jpg",
+    "src": "photos/Renatino.webp",
     "title": "Renatino",
     "date": "3 dicembre 2021",
     "description": "Una delle campagne pubblicitarie andate peggio di cui abbia memoria: quella del Parmigiano Reggiano con Renatino, il personaggio di fantasia che incarnava i lavoratori stakanovisti della ditta. Fu un ritorno di fiamma assurdo (ma, devo dire, meritato)."
   },
   {
     "type": "img",
-    "src": "photos/Gerry_Scotti_KeithHaring.png",
+    "src": "photos/Gerry_Scotti_KeithHaring.webp",
     "title": "Gerry Scotti visto da Keith Haring",
     "date": "27 dicembre 2021",
     "description": "La famosa caduta di Gerry Scotti sul bancone di Striscia La Notizia, con conseguente sfondamento, vista con gli occhi di Keith Haring. Provai a mintarlo come NFT e venderlo... purtroppo non ci ho fatto i soldi che speravo (almeno finora)."
   },
   {
     "type": "img",
-    "src": "photos/Mattarella2022.jpg",
+    "src": "photos/Mattarella2022.webp",
     "title": "Mattarella J. Fry",
     "date": "29 gennaio 2022",
     "description": "Uno dei miei meme più 'artistici', creato in occasione della rielezione di Mattarella a gennaio 2022. Probabilmente fu più felice di come lo raffigurai, ma una cosa è certa: non ricordo di aver MAI visto un contenuto prendere like così velocemente come questo."
   },
   {
     "type": "img",
-    "src": "photos/paper.jpg",
+    "src": "photos/paper.webp",
     "title": "Pubblicazione articolo sullo 'Screen Infinito'",
     "date": "6 aprile 2022",
     "description": "Chi seguiva il mio profilo Facebook tra settembre 2018 e marzo 2019 ricorderà il famoso 'screen dello screen' che postai per 200 giorni di fila. Ebbene, riuscii poi ad esportare la cosa in Olanda, per la precisione all'Institute of Network Cultures dell'Università delle Scienze Applicate di Amsterdam! Nella loro pubblicazione 'PrtScn: The Lazy Art of Screenshot', il mio contributo è alle pagine 62 e 63."
@@ -366,21 +324,21 @@
   },
   {
     "type": "img",
-    "src": "photos/DraghiMattarella.jpg",
+    "src": "photos/DraghiMattarella.webp",
     "title": "Draghi&Mattarella",
     "date": "12 luglio 2022",
     "description": "In un momento di crisi istituzionale come le dimissioni di Mario Draghi, volli giocare sulla sua frase 'Anche i banchieri centrali hanno un cuore'. Ma chi ci dice che tra i due non ci fosse veramente del tenero?"
   },
   {
     "type": "img",
-    "src": "photos/Renzi_Calenda.jpg",
+    "src": "photos/Renzi_Calenda.webp",
     "title": "Renzi e Calenda, ma è un wallpaper virale nel 2008",
     "date": "11 agosto 2022",
     "description": "Ricordate i wallpaper che andavano di moda negli anni 2000 con il ragazzo e la ragazza che si abbracciavano? Descrissi così l'annuncio dell'alleanza tra Calenda e Renzi per le politiche del settembre 2022."
   },
   {
     "type": "img",
-    "src": "photos/KatanaMobile.jpg",
+    "src": "photos/KatanaMobile.webp",
     "title": "KatanaMobile",
     "date": "23 novembre 2022",
     "description": "Memegiornale commentando la notizia secondo cui un apprendista di un'azienda italiana del settore energetico era stato licenziato perché avrebbe sostituito la leva del cambio con il manico di una spada giapponese, vandalizzando di fatto l'auto e creando una situazione di grave pericolo per sé e per gli altri. Secondo me, il pericolo era di essere troppo figo."
@@ -779,7 +737,7 @@
   },
   {
     "type": "img",
-    "src": "photos/Ronaldo_Iuliano.jpg",
+    "src": "photos/Ronaldo_Iuliano.webp",
     "title": "Ronaldo-Iuliano",
     "date": "4 ottobre 2020",
     "description": "Per il filone 'Pulcini che fanno cose', il celebre scontro fisico tra Mark Iuliano e Ronaldo il Fenomeno durante il derby d'Italia del 26 aprile 1998, non visto (?) dall'arbitro Ceccarini, ma certamente visto da me attraverso gli occhi di Sanpoimo e dei suoi adorabili pulcini."
@@ -793,35 +751,35 @@
   },
   {
     "type": "img",
-    "src": "photos/Materazzi_RuiCosta.jpg",
+    "src": "photos/Materazzi_RuiCosta.webp",
     "title": "Materazzi e Rui Costa",
     "date": "6 ottobre 2020",
     "description": "Pulcini che fanno cose... in questo caso, guardare i fumogeni lanciati dalla curva di San Siro nell'euroderby del 2005."
   },
   {
     "type": "img",
-    "src": "photos/Me_And_The_Boys.jpg",
+    "src": "photos/Me_And_The_Boys.webp",
     "title": "Me And The Chicks",
     "date": "9 ottobre 2020",
     "description": "Un altro modo di immaginare il template 'Me and the Boys', questa volta coi pulcini di Sanpoimo."
   },
   {
     "type": "img",
-    "src": "photos/Lundini.jpg",
+    "src": "photos/Lundini.webp",
     "title": "Lundini",
     "date": "14 ottobre 2020",
     "description": "Una citazione di una celebre scena dello show 'Una pezza di Lundini', divenuta virale proprio in quei giorni."
   },
   {
     "type": "img",
-    "src": "photos/Paint.png",
+    "src": "photos/Paint.webp",
     "title": "Io alle elementari quando si andava in aula informatica",
     "date": "2 novembre 2020",
     "description": "Direi che il titolo dice tutto. Viva il vecchio Paint, compagno di mille ore di cazzeggio da bambino!!! Il pulcino raffigurato è ispirato a uno sticker di Sanpoimo."
   },
   {
     "type": "img",
-    "src": "photos/Pordenone.png",
+    "src": "photos/Pordenone.webp",
     "title": "The Pordenone Incident",
     "date": "18 marzo 2021",
     "description": "Memegiornale + pulcini: in quei giorni uscì la notizia che a Pordenone un carro armato sbagliò mira, centrando allevamento di galline... RIP."
