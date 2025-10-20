@@ -1,6 +1,13 @@
 [
   {
     "type": "img",
+    "src": "photos/diagon.webp",
+    "title": "Diagon Alley",
+    "date": "4 settembre 2018",
+    "description": "Come dimenticare la scena di 'Harry Potter e la Pietra filosofale' in cui il muro di mattoni girevoli rivela Diagon Alley? Una via molto particolare, piena di negozi... un po' come Sottoripa, del resto."
+  },
+  {
+    "type": "img",
     "src": "photos/HeavyRain.webp",
     "title": "Heavy Rain",
     "date": "27 ottobre 2018",
