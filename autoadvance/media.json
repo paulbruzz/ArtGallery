@@ -685,5 +685,33 @@
     "title": "La trasformazione in Super Pinguino",
     "date": "14 maggio 2021",
     "description": "Realizzato per la pagina 'Pulcini che fanno cose', ricrea la celebre scena di Goku che si trasforma in Super Sayan per la prima volta, mettendo però al centro di tutto il pinguino di Sanpoimo. Come mi è venuto in mente? Non lo so, ma l'ho fatto, e il risultato mi soddisfa molto ancora oggi."
+  },
+  {
+    "type": "video",
+    "src": "videos/InsideOut.mp4",
+    "title": "Vi capita mai...?",
+    "date": "10 luglio 2016",
+    "description": "Fece furore nel gruppo della storica pagina 'Sam Nonsense', la prima che mi fece capire che la creazione di meme in forma di video poteva avere un futuro anche al di fuori di YouTube."
+  },
+  {
+    "type": "video",
+    "src": "videos/BreakingEzio.mp4",
+    "title": "Breaking Ezio",
+    "date": "7 novembre 2016",
+    "description": "Il video che mi vinse il posto nello staff ufficiale di 'Sam Nonsense'. Decisamente avanti rispetto ai contenuti che mediamente giravano per Facebook in quel periodo."
+  },
+  {
+    "type": "video",
+    "src": "videos/Shrek.mp4",
+    "title": "Shrek",
+    "date": "17 dicembre 2016",
+    "description": "Il primo video con cui superai la barriera dei 10.000 like, già nel 2016."
+  },
+  {
+    "type": "video",
+    "src": "videos/Lollipop.mp4",
+    "title": "Lollipop",
+    "date": "23 marzo 2020",
+    "description": "Ebbene sì, tra le mie mille esperienze da memer, c'è stata anche quella da 'padre fondatore' nientepopodimeno che di Mimmo Modem. Ai tempi della pandemia, questo montaggio del tizio che urlava dal balcone 'CE LA FAREMO' spopolò."
   }
 ]
