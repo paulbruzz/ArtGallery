@@ -1,6 +1,13 @@
 [
   {
     "type": "img",
+    "src": "photos/diagon.webp",
+    "title": "Diagon Alley",
+    "date": "4 settembre 2018",
+    "description": "Come dimenticare la scena di 'Harry Potter e la Pietra filosofale' in cui il muro di mattoni girevoli rivela Diagon Alley? Una via molto particolare, piena di negozi... un po' come Sottoripa, del resto."
+  },
+  {
+    "type": "img",
     "src": "photos/HeavyRain.webp",
     "title": "Heavy Rain",
     "date": "27 ottobre 2018",
@@ -26,13 +33,6 @@
     "title": "Dinae",
     "date": "11 settembre 2019",
     "description": "STONKS! E quale template poteva adattarsi di più ai genovesi? Citando poi la didascalia originale del post, che si rifaceva alla situazione della Samp all'epoca: 'Quando non vendi la Samp, vendi quelli buoni, e non compri rinforzi'. Iniziava a prepararsi la burrasca degli anni successivi..."
-  },
-  {
-    "type": "video",
-    "src": "videos/QuellaRaglia.mp4",
-    "title": "QuellaRaglia",
-    "date": "22 ottobre 2019",
-    "description": "Chi avrebbe mai pensato che il cognome Quagliarella, anagrammato, potesse diventare 'Quella Raglia'? Eppure era sotto gli occhi di tutti."
   },
   {
     "type": "img",
@@ -89,13 +89,6 @@
     "title": "Arenzano",
     "date": "2 giugno 2022",
     "description": "Shitposting regionale ligure che necessita di un po' di sospensione dell'incredulità. Non c'è niente da capire, solo ammirare la bellezza di Arenzano dei Maneskin e la chiarezza del suo discorso."
-  },
-  {
-    "type": "video",
-    "src": "videos/thegiornalisti.mp4",
-    "title": "Thegiornalisti",
-    "date": "24 agosto 2023",
-    "description": "Sentence mixing volgarotto, ma soprattutto MOLTO genovese!!! Rima concepita già nell'estate del 2017, ma mai tradotta in meme fino all'agosto del 2023. A volte i meme ci mettono un po' a trovare la strada di casa."
   },
   {
     "type": "img",
@@ -260,13 +253,6 @@
     "description": "Altro video musicale a base di meme, che questa volta illustra il testo di 'Marmellata #25' di Cesare Cremonini."
   },
   {
-    "type": "video",
-    "src": "videos/GrilloBerlu.mp4",
-    "title": "The virgin Grillo vs the chad Berlusconi",
-    "date": "20 aprile 2021",
-    "description": "Un grande esempio di come la comunicazione possa passare anche solo tramite le immagini, senza dover ricorrere a una didascalia che fornisca ulteriore contesto."
-  },
-  {
     "type": "img",
     "src": "photos/ELSA.webp",
     "title": "ELSA",
@@ -387,73 +373,10 @@
   },
   {
     "type": "video",
-    "src": "videos/Zucchero.mp4",
-    "title": "Un kilo",
-    "date": "21 agosto 2023",
-    "description": "Sentence mixing volgarotto anche qui, è interessante notare come la semplicità della sostituzione di una sillaba abbia stravolto il significato del testo, guadagnandomi più di 50.000 likes su Instagram. Spesso le soluzioni più semplici sono le più efficaci."
-  },
-  {
-    "type": "video",
-    "src": "videos/Celentano.mp4",
-    "title": "Azzurro",
-    "date": "24 agosto 2023",
-    "description": "Per il filone 'Sentence mixing scatologico', ecco una rima di Celentano (in realtà sarebbe di Paolo Conte) molto efficace e concisa."
-  },
-  {
-    "type": "video",
-    "src": "videos/thegiornalisti.mp4",
-    "title": "Thegiornalisti",
-    "date": "24 agosto 2023",
-    "description": "Sentence mixing volgarotto, ma soprattutto MOLTO genovese!!! Rima concepita già nell'estate del 2017, ma mai tradotta in meme fino all'agosto del 2023. A volte i meme ci mettono un po' a trovare la strada di casa."
-  },
-  {
-    "type": "video",
-    "src": "videos/cremonini.mp4",
-    "title": "Dicono di me",
-    "date": "29 agosto 2023",
-    "description": "Questo video nacque come collaborazione con La Memevisione. Qui l'effetto comico è sostanzialmente basato sull'esasperazione della descrizione negativa che i fantomatici detrattori fanno di Cremonini."
-  },
-  {
-    "type": "video",
-    "src": "videos/negramaro.mp4",
-    "title": "Nuvole e Lenzuola",
-    "date": "29 agosto 2023",
-    "description": "E anche qui, sentence mixing con esasperazione di frasi: qui Giuliano Sangiorgi, autodefinitosi 'stupido e testardo' nel testo originale di 'Nuvole e Lenzuola', continua a darsi definizioni sempre più spinte."
-  },
-  {
-    "type": "video",
-    "src": "videos/LucioDalla.mp4",
-    "title": "Canzone",
-    "date": "30 agosto 2023",
-    "description": "Anche qui, esasperazione di una o più frasi o concetti: in questo caso il 'testa dura, testa di rapa' che c'è veramente nel testo di 'Canzone', successo di Lucio Dalla datato 1996 firmato da Samuele Bersani."
-  },
-  {
-    "type": "video",
-    "src": "videos/Propaganda.mp4",
-    "title": "Propaganda",
-    "date": "1 settembre 2023",
-    "description": "Altro esempio di sentence mixing scatologico, che questa volta prende il successo di Colapesce e Dimartino 'Propaganda' e lo stravolge. Mi ha fatto piacere vedere la clip audio riutilizzata da altri memer nei loro reels."
-  },
-  {
-    "type": "video",
-    "src": "videos/Fedez.mp4",
-    "title": "Mille",
-    "date": "2 settembre 2023",
-    "description": "Un altro del filone 'sentence mixing scatologico', qui ho concretizzato qualcosa che avevo sempre sentito nella canzone fin dal primo ascolto."
-  },
-  {
-    "type": "video",
     "src": "videos/Pezzali1.mp4",
     "title": "Come mai?",
     "date": "8 settembre 2023",
     "description": "Anche qui, esasperazione di frasi: come mai? Perché fai questo? Qui stavo iniziando ad applicare ai meme la clonazione delle voci con l'AI. Buon risultato, direi, anche se avrei potuto mixare meglio la seconda parte del video."
-  },
-  {
-    "type": "video",
-    "src": "videos/PTN.mp4",
-    "title": "Scrivile scemo",
-    "date": "10 settembre 2023",
-    "description": "Di nuovo, esasperazione di frasi: da 'Scrivile scemo', titolo di una celebre canzone dei Pinguini Tattici Nucleari, alla sequela di insulti che si sentono nel video. Ma alla fine, le avrà scritto?"
   },
   {
     "type": "video",
@@ -491,32 +414,11 @@
     "description": "Chi di voi maneggia database? Ecco, non avrete bisogno che ve lo spieghi. Agli altri dico: prendete molto alla lettera il testo della canzone e provate ad applicarlo tipo alla teoria degli insiemi, raggruppando le categorie che Tizianone enumera. Più o meno dovrebbe rendere l'idea."
   },
   {
-    "type": "video",
-    "src": "videos/Ramazzotti.mp4",
-    "title": "Un'emozione per sempre",
-    "date": "21 gennaio 2024",
-    "description": "Anche qui c'è molto delle YouTube Poop: la piega surreale che prende il video nella seconda metà, però, è degna del miglior/peggior sogno con la febbre alta. Come mi è venuto in mente tutto questo? Non lo so, stavo passeggiando alle Giutte quando ascoltando la canzone questo video ha preso forma nella mia mente."
-  },
-  {
-    "type": "video",
-    "src": "videos/OnePieceYTP.mp4",
-    "title": "YTP - Sigla di One Piece",
-    "date": "6 febbraio 2024",
-    "description": "Un omaggio alle YouTube Poop, ossia il genere di video da cui sono partito, e soprattutto agli anni d'oro di YouTube (i primi 2010), con citazioni a personaggi quali il professor Testoh, Matteo Montesi e il Nemesis."
-  },
-  {
     "type": "img",
     "src": "photos/LaSad.webp",
     "title": "La Sad",
     "date": "10 febbraio 2024",
     "description": "Una delle rivelazioni del Festival di Sanremo 2024: La Sad, reimmaginati secondo il format 'Me and the Boys', molto in voga a giugno 2019 (i meme 'retrò' mi piacciono)."
-  },
-  {
-    "type": "video",
-    "src": "videos/Vanni.mp4",
-    "title": "Dragon Ball",
-    "date": "2 marzo 2024",
-    "description": "Proprio in quei giorni avevo visto Giorgio Vanni dal vivo alla prima edizione del Megacon alla Fiera del Mare. Impossibile che non ci scappasse un meme a riguardo."
   },
   {
     "type": "video",
@@ -608,13 +510,6 @@
     "title": "Attacco DDoS",
     "date": "28 febbraio 2025",
     "description": "Una spiegazione semplice ma efficace di cos'è un attacco DDoS in informatica. Quello dei video didattici fatti in maniera trash è un filone che mi piacerebbe molto seguire di più in futuro."
-  },
-  {
-    "type": "video",
-    "src": "videos/ClubDogo.mp4",
-    "title": "Club Dogo",
-    "date": "12 marzo 2025",
-    "description": "Per il filone 'Sentence mixing scatologico', ecco una cosa a cui avevo sempre pensato ascoltando questo particolare verso di 'P.E.S.' dei Club Dogo, hit estiva della mia giovinezza e compagna di tanti pomeriggi di sano svago ignorante davanti ai videogiochi mentre fuori imperversava il caldo torrido estivo."
   },
   {
     "type": "video",
@@ -716,6 +611,13 @@
   },
   {
     "type": "video",
+    "src": "videos/Brainrot2006.mp4",
+    "title": "Brainrot 2006",
+    "date": "7 giugno 2025",
+    "description": "Come dimenticare il celebre gol di Del Piero che suggellò il 2-0 alla Germania nei mitici Mondiali del 2006? Qui l'ho reimmaginato coi personaggi del brainrot. Immagini ottenute con ChatGPT Plus."
+  },
+  {
+    "type": "video",
     "src": "videos/Ghali.mp4",
     "title": "Il prato è verde",
     "date": "12 giugno 2025",
@@ -727,34 +629,6 @@
     "title": "Castel Di Sangro",
     "date": "18 giugno 2025",
     "description": "Un altro esempio di applicazione memetica di clonazione delle voci con l'AI. Quanti messaggi subliminali ci saranno passati nelle orecchie senza che ce ne rendessimo conto?"
-  },
-  {
-    "type": "video",
-    "src": "videos/gerry.mp4",
-    "title": "Videosaluto di Gerry Scotti",
-    "date": "14 novembre 2025",
-    "description": "Una delle più grandi onorificenze da me conseguite in 15 anni di memazione: un videosaluto da parte del grande Gerry Scotti in persona, a cui tramite la mia potente rete di contatti sono riuscito a far pervenire la stampa su tela del mio meme che ritrae il suo tuffo sul bancone di Striscia nello stile di Keith Haring."
-  },
-  {
-    "type": "video",
-    "src": "videos/soltero.mp4",
-    "title": "Soltero",
-    "date": "3 gennaio 2026",
-    "description": "Sentence mixing in stile caccapupù del tormentone 'Soltero' di Leonardo De Andreis."
-  },
-  {
-    "type": "img",
-    "src": "photos/stempiato.webp",
-    "title": "IO SONO UN SURGO",
-    "date": "5 gennaio 2026",
-    "description": "Uno dei più grandi drammi della popolazione maschile è rappresentato dalla perdita dei capelli, qui messa in relazione con l'iconica scena di 'The Good Doctor' in cui Shaun Murphy, giovane e brillante medico autistico, reagisce con uno scoppio emotivo alla prevaricazione di un collega, ripetendo istericamente 'IO SONO UN CHIRURGO' - scena che il popolo di internet ha poi, diciamo, adattato traducendola forzatamente in 'IO SONO UN SURGO'"
-  },
-  {
-    "type": "img",
-    "src": "photos/pavlov.webp",
-    "title": "Ora Pavlov io",
-    "date": "17 gennaio 2026",
-    "description": "Concepito durante la permanenza a Torino, dove ero giudice al Memissima, si rifà alla wave di Jok3r che dice 'Ora parlo io' nella celebre thumbnail del video in cui parla dell'incidente subìto da suo fratello Cicciogamer89 al Romics del 2016, dove un fan gli spiaccicò un cornetto alla Nutella in faccia. Mi piace sempre metterci un tocco di cultura."
   },
   {
     "type": "img",
@@ -811,5 +685,33 @@
     "title": "La trasformazione in Super Pinguino",
     "date": "14 maggio 2021",
     "description": "Realizzato per la pagina 'Pulcini che fanno cose', ricrea la celebre scena di Goku che si trasforma in Super Sayan per la prima volta, mettendo però al centro di tutto il pinguino di Sanpoimo. Come mi è venuto in mente? Non lo so, ma l'ho fatto, e il risultato mi soddisfa molto ancora oggi."
+  },
+  {
+    "type": "video",
+    "src": "videos/InsideOut.mp4",
+    "title": "Vi capita mai...?",
+    "date": "10 luglio 2016",
+    "description": "Fece furore nel gruppo della storica pagina 'Sam Nonsense', la prima che mi fece capire che la creazione di meme in forma di video poteva avere un futuro anche al di fuori di YouTube."
+  },
+  {
+    "type": "video",
+    "src": "videos/BreakingEzio.mp4",
+    "title": "Breaking Ezio",
+    "date": "7 novembre 2016",
+    "description": "Il video che mi vinse il posto nello staff ufficiale di 'Sam Nonsense'. Decisamente avanti rispetto ai contenuti che mediamente giravano per Facebook in quel periodo."
+  },
+  {
+    "type": "video",
+    "src": "videos/Shrek.mp4",
+    "title": "Shrek",
+    "date": "17 dicembre 2016",
+    "description": "Il primo video con cui superai la barriera dei 10.000 like, già nel 2016."
+  },
+  {
+    "type": "video",
+    "src": "videos/Lollipop.mp4",
+    "title": "Lollipop",
+    "date": "23 marzo 2020",
+    "description": "Ebbene sì, tra le mie mille esperienze da memer, c'è stata anche quella da 'padre fondatore' nientepopodimeno che di Mimmo Modem. Ai tempi della pandemia, questo montaggio del tizio che urlava dal balcone 'CE LA FAREMO' spopolò."
   }
 ]
