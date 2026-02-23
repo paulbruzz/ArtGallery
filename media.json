@@ -611,13 +611,6 @@
   },
   {
     "type": "video",
-    "src": "videos/Brainrot2006.mp4",
-    "title": "Brainrot 2006",
-    "date": "7 giugno 2025",
-    "description": "Come dimenticare il celebre gol di Del Piero che suggellò il 2-0 alla Germania nei mitici Mondiali del 2006? Qui l'ho reimmaginato coi personaggi del brainrot. Immagini ottenute con ChatGPT Plus."
-  },
-  {
-    "type": "video",
     "src": "videos/Ghali.mp4",
     "title": "Il prato è verde",
     "date": "12 giugno 2025",
@@ -629,6 +622,55 @@
     "title": "Castel Di Sangro",
     "date": "18 giugno 2025",
     "description": "Un altro esempio di applicazione memetica di clonazione delle voci con l'AI. Quanti messaggi subliminali ci saranno passati nelle orecchie senza che ce ne rendessimo conto?"
+  },
+    {
+    "type": "video",
+    "src": "videos/UnGrr.mp4",
+    "title": "Dame un Grr",
+    "date": "7 luglio 2025",
+    "description": "Per qualche motivo, una mattina mi son svegliato con l'idea di unire il 'Dame un Grr' virale su TikTok a questo vecchio spot del Crodino. Devo dire che ha funzionato."
+  },
+  {
+    "type": "video",
+    "src": "videos/RatazioneAuto.mp4",
+    "title": "RatazioneAuto.it",
+    "date": "9 luglio 2025",
+    "description": "Avete presente le ormai onnipresenti pubblicità del tipo 'vuoi sapere quanto vale la tua auto?'. Ecco, dopo aver visto quella con Enrico Papi mi venne da farne una parodia sfruttando il modello vocale di Fabrizio De Andrè. Notevole il fatto che dovetti cambiare il video, dato che la versione originale in cui Faber chiedeva i dati della carta di credito fu bannata da Instagram perché, a suo dire, il contenuto cercava di ottenere informazioni sensibili."
+  },
+  {
+    "type": "video",
+    "src": "videos/Pescatore.mp4",
+    "title": "Il Pescatore (verboso)",
+    "date": "1 settembre 2025",
+    "description": "Altro caso di utilizzo del modello vocale di Faber. Qui ho cercato di immaginare una versione anche troppo razionale de 'Il Pescatore', o meglio: 'L’essere umano di sesso maschile la cui occupazione è quella di catturare specie ittiche con uno strumento flessibile dotato di lenza con amo' (citando il commento con più like)."
+  },
+  {
+    "type": "video",
+    "src": "videos/gerry.mp4",
+    "title": "Videosaluto di Gerry Scotti",
+    "date": "14 novembre 2025",
+    "description": "Una delle più grandi onorificenze da me conseguite in 15 anni di memazione: un videosaluto da parte del grande Gerry Scotti in persona, a cui tramite la mia potente rete di contatti sono riuscito a far pervenire la stampa su tela del mio meme che ritrae il suo tuffo sul bancone di Striscia nello stile di Keith Haring."
+  },
+  {
+    "type": "video",
+    "src": "videos/soltero.mp4",
+    "title": "Soltero",
+    "date": "3 gennaio 2026",
+    "description": "Sentence mixing in stile caccapupù del tormentone 'Soltero' di Leonardo De Andreis."
+  },
+  {
+    "type": "img",
+    "src": "photos/stempiato.webp",
+    "title": "IO SONO UN SURGO",
+    "date": "5 gennaio 2026",
+    "description": "Uno dei più grandi drammi della popolazione maschile è rappresentato dalla perdita dei capelli, qui messa in relazione con l'iconica scena di 'The Good Doctor' in cui Shaun Murphy, giovane e brillante medico autistico, reagisce con uno scoppio emotivo alla prevaricazione di un collega, ripetendo istericamente 'IO SONO UN CHIRURGO' - scena che il popolo di internet ha poi, diciamo, adattato traducendola forzatamente in 'IO SONO UN SURGO'"
+  },
+  {
+    "type": "img",
+    "src": "photos/pavlov.webp",
+    "title": "Ora Pavlov io",
+    "date": "17 gennaio 2026",
+    "description": "Concepito durante la permanenza a Torino, dove ero giudice al Memissima, si rifà alla wave di Jok3r che dice 'Ora parlo io' nella celebre thumbnail del video in cui parla dell'incidente subìto da suo fratello Cicciogamer89 al Romics del 2016, dove un fan gli spiaccicò un cornetto alla Nutella in faccia. Mi piace sempre metterci un tocco di cultura."
   },
   {
     "type": "img",
