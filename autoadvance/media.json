@@ -120,6 +120,13 @@
   },
   {
     "type": "img",
+    "src": "photos/crolli.webp",
+    "title": "Crolli",
+    "date": "20 febbraio 2026",
+    "description": "Meme di denuncia sociale, ispirato dai numerosi crolli che negli ultimi anni hanno colpito la Liguria (pensiamo al ponte Morandi o al cimitero di Camogli, solo per citare i casi più eclatanti). Particolarmente ispirato dal caso del condominio di via Napoli."
+  },
+  {
+    "type": "img",
     "src": "photos/20set_1.webp",
     "title": "Il 20 in Via XX Settembre (1)",
     "date": "20 settembre 2021",
@@ -597,6 +604,20 @@
   },
   {
     "type": "video",
+    "src": "videos/RinoGaetano.mp4",
+    "title": "Gianna",
+    "date": "25 maggio 2025",
+    "description": "Ennesimo esempio di sentence mixing scatologico. Colgo l'occasione per ribadire la mia enorme stima nei confronti di Rino Gaetano come artista e come uomo: includerlo nel mio repertorio memetico è un modo di omaggiarlo, rendendo lui stesso un'opera d'arte, proprio come penso gli sarebbe piaciuto."
+  },
+  {
+    "type": "video",
+    "src": "videos/Brainrot2006.mp4",
+    "title": "Brainrot 2006",
+    "date": "7 giugno 2025",
+    "description": "Come dimenticare il celebre gol di Del Piero che suggellò il 2-0 alla Germania nei mitici Mondiali del 2006? Qui l'ho reimmaginato coi personaggi del brainrot. Immagini ottenute con ChatGPT Plus."
+  },
+  {
+    "type": "video",
     "src": "videos/Ghali.mp4",
     "title": "Il prato è verde",
     "date": "12 giugno 2025",
@@ -608,27 +629,6 @@
     "title": "Castel Di Sangro",
     "date": "18 giugno 2025",
     "description": "Un altro esempio di applicazione memetica di clonazione delle voci con l'AI. Quanti messaggi subliminali ci saranno passati nelle orecchie senza che ce ne rendessimo conto?"
-  },
-  {
-    "type": "video",
-    "src": "videos/UnGrr.mp4",
-    "title": "Dame un Grr",
-    "date": "7 luglio 2025",
-    "description": "Per qualche motivo, una mattina mi son svegliato con l'idea di unire il 'Dame un Grr' virale su TikTok a questo vecchio spot del Crodino. Devo dire che ha funzionato."
-  },
-  {
-    "type": "video",
-    "src": "videos/RatazioneAuto.mp4",
-    "title": "RatazioneAuto.it",
-    "date": "9 luglio 2025",
-    "description": "Avete presente le ormai onnipresenti pubblicità del tipo 'vuoi sapere quanto vale la tua auto?'. Ecco, dopo aver visto quella con Enrico Papi mi venne da farne una parodia sfruttando il modello vocale di Fabrizio De Andrè. Notevole il fatto che dovetti cambiare il video, dato che la versione originale in cui Faber chiedeva i dati della carta di credito fu bannata da Instagram perché, a suo dire, il contenuto cercava di ottenere informazioni sensibili."
-  },
-  {
-    "type": "video",
-    "src": "videos/Pescatore.mp4",
-    "title": "Il Pescatore (verboso)",
-    "date": "1 settembre 2025",
-    "description": "Altro caso di utilizzo del modello vocale di Faber. Qui ho cercato di immaginare una versione anche troppo razionale de 'Il Pescatore', o meglio: 'L’essere umano di sesso maschile la cui occupazione è quella di catturare specie ittiche con uno strumento flessibile dotato di lenza con amo' (citando il commento con più like)."
   },
   {
     "type": "img",
