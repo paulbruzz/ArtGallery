@@ -674,6 +674,41 @@
   },
   {
     "type": "img",
+    "src": "photos/Faber_oroscopo.jpg",
+    "title": "L'oroscopo di Faber",
+    "date": "2 marzo 2026",
+    "description": "Qui ho voluto ironizzare su questa propensione di De André a far dipendere collaborazioni e uscite degli album dall'oroscopo... Faber letteralmente la baddie che ti chiede l’ascendente e poi ti pianta con la scusa dell’oroscopo dopo averti scombussolato la chimica del cervello ✨💅"
+  },
+  {
+    "type": "video",
+    "src": "videos/Sayf.mp4",
+    "title": "TU MI PIACI TANTO",
+    "date": "6 marzo 2026",
+    "description": "Ennesimo capitolo della lore del sentence mixing caccapupù. Devo dire uno dei miei preferiti, sia come idea che come realizzazione. Approvato da Sayf nei commenti!"
+  },
+  {
+    "type": "video",
+    "src": "videos/Awebo.mp4",
+    "title": "Awebo Luca Laurenti",
+    "date": "17 marzo 2026",
+    "description": "Il verso della pernice bianca nordica, ribattezzata onomatopeicamente 'Awebo' dal popolo di internet, ricorda un po' la voce di Luca Laurenti. Qui sono riuscito ad esportare questo meme oltreoceano, grazie al fatto che si è diffusa l'abitudine di commentare con la GIF di 'A PAOLO' sotto tutti i video del simpatico uccello."
+  },
+  {
+    "type": "video",
+    "src": "videos/Bisio_compleanno.mp4",
+    "title": "Il compleanno di Claudio Bisio",
+    "date": "19 marzo 2026",
+    "description": "Quale miglior modo di omaggiare il grande Claudio Bisio, se non aspettare la mezzanotte il giorno del suo compleanno ed essere la prima persona su Internet a fargli gli auguri?"
+  },
+  {
+    "type": "img",
+    "src": "photos/Chuck.jpg",
+    "title": "In morte di Chuck Norris",
+    "date": "20 marzo 2026",
+    "description": "Omaggio in stile 'Proto-Facebook' 2011 - epoca d'oro dei social, a cui guardo sempre con grande nostalgia - alla leggenda Chuck Norris."
+  },
+  {
+    "type": "img",
     "src": "photos/Ronaldo_Iuliano.webp",
     "title": "Ronaldo-Iuliano",
     "date": "4 ottobre 2020",
